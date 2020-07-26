@@ -1,6 +1,10 @@
 # meditationpp
 
 A new Flutter application.
+# ScreenShots
+<img src="Screenshots/screenshot1.jpg" width="300">
+<img src="Screenshots/screenshot2.jpg" width="300">
+<img src="Screenshots/screenshot3.jpg" width="300">
 
 ## Getting Started
 
